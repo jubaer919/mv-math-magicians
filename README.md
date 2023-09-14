@@ -12,7 +12,7 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -130,7 +130,7 @@ npm start
 
 You can redeploy this project by adding new lines of code to source files.
 
-<p align="right">(<a href="#triangular_flag_on_post-deployment">back to top</a>)</p>
+<p align="right">(<a href="#deployment">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
 
