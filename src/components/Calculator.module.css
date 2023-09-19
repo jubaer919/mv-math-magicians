@@ -1,3 +1,11 @@
+.container {
+  width: 80%;
+  margin: 1rem auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
 .calculator-container {
   width: fit-content;
   background-color: #999;

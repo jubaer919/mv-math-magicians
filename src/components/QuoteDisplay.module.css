@@ -4,3 +4,9 @@
   padding: 1rem;
   text-align: center;
 }
+
+.home-container {
+  width: 80%;
+  margin: 1rem auto;
+  text-align: center;
+}

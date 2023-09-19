@@ -1,0 +1,21 @@
+.nav-bar {
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-link {
+  padding: 1rem 2rem;
+}
+
+.nav-link:not(:last-child) {
+  border-right: 1px solid blue;
+}
