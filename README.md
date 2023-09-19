@@ -12,13 +12,10 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 
@@ -99,6 +96,8 @@ In order to run this project you need:
 
 You can use this project by cloning it to your folder and changing index.html and styles.css files.
 
+<p align="right">(<a href="#usage">back to top</a>)</p>
+
 ### Run tests
 
 To run tests, run the following commands:
@@ -124,12 +123,14 @@ npx eslint ."
 To Open The Project On The Browser
 npm start
 
+<p align="right">(<a href="#run-tests">back to top</a>)</p>
+
 
 ### Deployment
 
 You can redeploy this project by adding new lines of code to source files.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#deployment">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
 
