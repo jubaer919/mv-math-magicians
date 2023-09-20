@@ -1,8 +1,6 @@
 // eslint-disable-next-line import/no-extraneous-dependencies
 const Big = require('big.js');
 
-// here is the logic
-
 export default function operate(numberOne, numberTwo, operation) {
   const one = Big(numberOne);
   const two = Big(numberTwo);
