@@ -134,8 +134,13 @@ You can redeploy this project by adding new lines of code to source files.
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 Jubaer hossain maruf
+👤 **Jubaer hossain maruf**
+
 - GitHub:[jubaer919] (https://github.com/jubaer919)
+
+👤 **Lucy W. Mwangi**
+
+- GitHub: [@lucy-sees](https://github.com/lucy-sees)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
