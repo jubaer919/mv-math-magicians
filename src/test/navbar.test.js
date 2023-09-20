@@ -15,8 +15,8 @@ test('renders h1 element with "Math Magician"', () => {
   expect(h1Element).toBeInTheDocument();
 });
 
-// test('renders three Link elements', () => {
-//   const { container } = render(<MokNavbar />);
-//   const linkElements = container.querySelectorAll('a');
-//   expect(linkElements.length).toBe(3);
-// });
+test('renders three Link elements', () => {
+  const { container } = render(<MokNavbar />);
+  const linkElements = container.querySelectorAll('a');
+  expect(linkElements.length).toBe(3);
+});
